@@ -41,3 +41,8 @@ Si aún no estas familiarizado con documentar tu proyecto o usar el README en Gi
 ¡Esperamos que te sea de utilidad en este hack y aproveches al máximo la oportunidad de desarrollar un proyecto junto con tu equipo!
 
 **Atte: GitHub GitTogether CDMX**
+
+
+
+> [!WARNING]  
+> Este README esta sujeto a cambios sin previo aviso.
