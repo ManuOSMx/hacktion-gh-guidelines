@@ -1,5 +1,4 @@
 # Proyecto: *Nombre del proyecto*
----
 ### Equipo: *Nombre del equipo o del lider del equipo*
 ### Descripción: 
 
