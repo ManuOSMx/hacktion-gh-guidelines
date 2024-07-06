@@ -36,6 +36,7 @@ Este repositorio tendrá como función poder guiarte en los lineamientos y/o cri
 ## Template README
 
 Si aún no estas familiarizado con documentar tu proyecto o usar el README en GitHub. Te recomendamos usar esta sencilla plantilla para que puedas explicar mas a detalle el objetivo de tu proyecto.
+[Click aqui para obtener el template](./templates/README.md)
 
 ¡Esperamos que te sea de utilidad en este hack y aproveches al máximo la oportunidad de desarrollar un proyecto junto con tu equipo!
 
